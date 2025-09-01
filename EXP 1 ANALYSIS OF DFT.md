@@ -2,7 +2,7 @@
 
 # AIM: 
 
-  To analyze audio signal by removing unwanted frequency. 
+  To analyze audio signal by removing unwanted frequency
 
 # APPARATUS REQUIRED: 
    
